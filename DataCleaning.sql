@@ -174,9 +174,3 @@ DROP COLUMN SaleDate;
 
 Select *
 FROM nashvillehousing;
-
-
-
-
-
-
